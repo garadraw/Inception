@@ -23,7 +23,7 @@ https://docs.docker.com/get-started/
 4. Docker Tutorials:
 https://learndocker.online/courses/
 
-5. For Installing Docker on Linux:
+5. For Installing Docker on Linux, Production Standards:
 	Step 1 - Depencies  https://docs.docker.com/desktop/install/linux-install/#system-requirements
 	Step 2 - Instalation https://www.youtube.com/watch?v=Vplj9b0L_1Y&ab_channel=Abstractprogrammer
 
